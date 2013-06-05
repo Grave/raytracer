@@ -59,10 +59,10 @@ struct Camera
 
 ////////////////////////////////////////////////////////////////////////////////
 // constants / global variables
-unsigned int window_width = 512;
-unsigned int window_height = 512;
-unsigned int image_width = 512;
-unsigned int image_height = 512;
+unsigned int window_width = 480;
+unsigned int window_height = 320;
+unsigned int image_width = 480;
+unsigned int image_height = 320;
 int iGLUTWindowHandle = 0;          // handle to the GLUT window
 
 // pbo variables
